@@ -1,0 +1,14 @@
+- 👋 Hello folks, I’m Arpit ranjan
+- I'm the second year B.tech CSE student
+- 👀 I’m highly focusing on DSA ,web2 ,web3
+- 🌱 I’m currently learning DSA ,web2, soon i'll start web3
+- 💞️ I would love to collaborate with startup ,open sources program,and projects
+- 📫 you can connect with me through my gmail(arpitvijans1234@gamil.com)
+-   and through twitter, url(https://x.com/arpitranjan010) or linkelin(https://www.linkedin.com/in/arpit-ranjan-b81b3b284/)
+- 😄 Pronouns: him/his
+- ⚡ Fun fact: ...i am in serious love with DSA..
+
+<!---
+ArpitRanjan0101/ArpitRanjan0101 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
