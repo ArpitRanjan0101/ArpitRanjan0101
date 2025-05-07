@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning DSA ,web2, soon i'll start web3
 - 💞️ I would love to collaborate with startup ,open sources program,and projects
 - 📫 you can connect with me through my gmail(arpitvijans1234@gmail.com)
--   and through linkelin(https://www.linkedin.com/in/arpit-ranjan-b81b3b284/)
+-   and through linkedlin(https://www.linkedin.com/in/arpit-ranjan-b81b3b284/)
 - 😄 Pronouns: him/his
 - ⚡ Fun fact: ...i am in serious love with DSA..
 
