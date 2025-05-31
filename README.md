@@ -1,6 +1,6 @@
 - 👋 Hello folks, I’m Arpit ranjan
 - I'm the second year B.tech CSE student
-- 👀 I’m highly focusing on DSA ,web2 ,web3.ai/ml
+- 👀 I’m highly focusing on DSA , web2 , web3 , ai/ml
 - 🌱 I’m currently learning DSA ,web2, soon i'll start web3
 - 💞️ I would love to collaborate with startup ,open sources program,and projects
 - 📫 you can connect with me through my gmail(arpitvijans1234@gmail.com)
