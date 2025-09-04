@@ -6,7 +6,7 @@
 - 📫 you can connect with me through my gmail(arpitvijans1234@gmail.com)
 -   and through linkedlin(https://www.linkedin.com/in/arpit-ranjan-b81b3b284/)
 - 😄 Pronouns: him/his
-- ⚡ Fun fact: ...i am in serious love with DSA,Blockchain
+- ⚡ Fun fact: ...i am in serious love with DSA
 
 <!---
 ArpitRanjan0101/ArpitRanjan0101 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
